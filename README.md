@@ -19,7 +19,8 @@
 📚 Let's embark on this incredible journey of software quality assurance together. Feel free to explore my portfolio, and I'm always open to collaborations and feedback. Together, we can create software that stands the test of time! 🌟🚀
 
 <h2> CV </h2>
-  You can download my CV as a PDF from my Google Drive
+ <a href="(https://drive.google.com/file/d/1mW0iAFuqROT3QFNT3ncm6KrDxwDWY6p7/view?usp=drive_link)"> You can download my CV as PDF from my Google Drive </a>
+
 
   <h2> SKILLS </h2>
   You can find examples of the described skills in the Examples of my work section.
