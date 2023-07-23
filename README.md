@@ -19,7 +19,8 @@
 📚 Let's embark on this incredible journey of software quality assurance together. Feel free to explore my portfolio, and I'm always open to collaborations and feedback. Together, we can create software that stands the test of time! 🌟🚀
 
 <h2> CV </h2>
- <a href="(https://drive.google.com/file/d/1mW0iAFuqROT3QFNT3ncm6KrDxwDWY6p7/view?usp=drive_link)"> You can download my CV as PDF from my Google Drive </a>
+You can download my CV as <a href="https://drive.google.com/file/d/1mW0iAFuqROT3QFNT3ncm6KrDxwDWY6p7/view?usp=sharing" target="_blank">a PDF from my Google Drive</a>.
+
 
 
   <h2> SKILLS </h2>
@@ -78,7 +79,7 @@
 <b> Mind maps & diagrams </b>
  - know how to design beautifully simple mind maps
 
-  
+  <h2> Courses </h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
