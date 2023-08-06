@@ -79,7 +79,27 @@ You can download my CV as <a href="https://drive.google.com/file/d/1mW0iAFuqROT3
 <b> Mind maps & diagrams </b>
  - know how to design beautifully simple mind maps
 
-  <h2> Courses </h2>
+  <h2> Examples of my work </h2>
+  
+<b> Test Scenarios and work in Notion</b>
+  - Please <a href="https://www.notion.so/WEB-APP-TESTING-e153cbbc3d9641e5a1775e6b4a6e907a?pvs=4" target="_blank">click here to access the test scenario file in Notion </a>.
+
+<b> Test Plan and work in Notion</b>
+  - Please <a href="https://www.notion.so/WEB-APP-TESTING-e153cbbc3d9641e5a1775e6b4a6e907a?pvs=4" target="_blank">click here to access the test plan file in Notion </a>.
+
+<b> Test Cases and work in Notion</b>
+  - Please <a href="https://www.notion.so/WEB-APP-TESTING-e153cbbc3d9641e5a1775e6b4a6e907a?pvs=4" target="_blank">click here to access the test cases file in Notion </a>.
+
+
+<b> Bug Report and work in Notion</b>
+  - Please <a href="https://www.notion.so/WEB-APP-TESTING-e153cbbc3d9641e5a1775e6b4a6e907a?pvs=4" target="_blank">click here to access the bug report file in Notion </a>.
+
+
+<b> Test Report and work in Notion</b>
+  - Please <a href="https://www.notion.so/WEB-APP-TESTING-e153cbbc3d9641e5a1775e6b4a6e907a?pvs=4" target="_blank">click here to access the test report file in Notion </a>.
+
+
+ <h2> Connect with me on LinkedIn </h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
