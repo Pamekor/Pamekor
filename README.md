@@ -98,6 +98,8 @@ You can download my CV as <a href="https://drive.google.com/file/d/1mW0iAFuqROT3
 <b> Test Report and work in Notion</b>
   - Please <a href="https://www.notion.so/WEB-APP-TESTING-e153cbbc3d9641e5a1775e6b4a6e907a?pvs=4" target="_blank">click here to access the test report file in Notion </a>.
 
+<h2> Books I have Read </h2>
+  <b>"A Practitioner's Guide to Software Test Design"</b> Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
 
  <h2> Connect with me on LinkedIn </h2>
 
